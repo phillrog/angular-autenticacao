@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/src/services/elisarts.identity/obj
+/src/services/elisarts.identity/bin/Debug/netcoreapp3.1
