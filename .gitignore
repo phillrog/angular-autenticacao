@@ -5,3 +5,6 @@
 /.vs
 /src/services/elisarts.identity/obj
 /src/services/elisarts.identity/bin/Debug/netcoreapp3.1
+/src/web/elisarts.portal/bin/Debug/netcoreapp3.1
+/src/web/elisarts.portal/ClientApp/node_modules
+/src/web/elisarts.portal/obj
